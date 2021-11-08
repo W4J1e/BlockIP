@@ -1,0 +1,8 @@
+python
+go-http-client
+fasthttp
+sqlmap
+curl
+nmap
+HTTrack
+wget
