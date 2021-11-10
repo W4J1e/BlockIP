@@ -6,3 +6,4 @@ curl
 nmap
 HTTrack
 wget
+Gecko
